@@ -1,11 +1,15 @@
+<h1>ABSTRACT</h1>
 
-ABSTRACT 
-
-1. Function: An abstract summarizes, in one paragraph (usually), the major aspects of the entire paper in the following prescribed sequence:
-
-the question(s) you investigated (or purpose), (from Introduction)
-state the purpose very clearly in the first or second sentence.
-the experimental design and methods used, (from Methods)
+<ol>
+    <li><b>Function</b>: An abstract summarizes, in one paragraph (usually), the major aspects of the entire paper in the following prescribered sequence:
+        <ul>
+            <li>the <b><i>question(s) you investigated</i></b> (or purpose), (<b>from <a href= link>Introduction</a></b>)
+                <ul>
+                    <li> state the purpose very clearly in the first or second sentence.</li>
+                </ul>
+            <li>the <b><i>experimental design</i></b> and <b><i>methods</i></b> used, (<b>from <a href= link>Methods</a></b>)
+            
+            
 clearly express the basic design of the study.
 Name or briefly describe the basic methodology used without going into excessive detail-be sure to indicate the key techniques used.
 the major findings including key quantitative results, or trends (from Results)
